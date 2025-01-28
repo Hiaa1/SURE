@@ -1,5 +1,5 @@
 # SURE
-Source code for COLING 2025 long paper ["SURE: Mutually Visible Objects and Self-generated Candidate Labels For Relation Extraction"](git@github.com:Hiaa1/SURE.git)
+Source code for COLING 2025 long paper ["SURE: Mutually Visible Objects and Self-generated Candidate Labels For Relation Extraction"](https://aclanthology.org/2025.coling-main.31/)
 ## Setup
 ### Install Dependencies/Prepare the datasets
 Please follow [PL-Marker](https://github.com/thunlp/PL-Marker) to install dependencies and download the datasets including ACE04/ACE05/SciERC.
